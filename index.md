@@ -28,6 +28,13 @@
 
 <h3>Links and Images</h3>
 <p>First, I'm going to link to <a href="http://www.lagourmandina.co.uk"> my website </a></p>
+
+<hr>
+
+<img src="https://c1.staticflickr.com/1/589/33247617972_c663fa211f_b.jpg" />
+
+<hr>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OscarTuli/nocoldiz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
