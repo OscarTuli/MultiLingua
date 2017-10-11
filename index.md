@@ -32,6 +32,7 @@
 <hr>
 
 <img src="https://c1.staticflickr.com/1/589/33247617972_c663fa211f_b.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/it/e/e7/Lago_Laceno.JPG" />
 
 <hr>
 
