@@ -31,20 +31,7 @@
 
 <hr>
 
-<img src="https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/c213.0.653.653/21910037_801356046713106_6699289051997929472_n.jpg?ig_cache_key=MTYwODI4ODkxNjkyNTAwNTYyOA%3D%3D.2.c" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/London_Underground_Tube_Train_approaching.gif" />
 <img src="https://upload.wikimedia.org/wikipedia/it/e/e7/Lago_Laceno.JPG" />
 
 <hr>
-
-<p> Cara Shellby, credo che nel mondo i problemi quelli grandi, siano altri! Non ci vuole tanto a far venire una cleaner ogni 8 giorni lavorativi oppure a far sistemare la finestra di una qualsiasi delle persone che ti paga la tua sopravvivenza in questo posto. Inciperdunque, credo sia il momento di sputtanarti publicamente sul mio sito web. cordiali saluti, ma anche no. Oscar. </p>
-
-Ti salutano Silvia ed Eleonora :)
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OscarTuli/nocoldiz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
