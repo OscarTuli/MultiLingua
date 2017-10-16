@@ -36,7 +36,10 @@
 
 <hr>
 
-<p> Claudia smiles! </p>
+<p> Cara Shellby, credo che nel mondo i problemi quelli grandi, siano altri! Non ci vuole tanto a far venire una cleaner ogni 8 giorni lavorativi oppure a far sistemare la finestra di una qualsiasi delle persone che ti paga la tua sopravvivenza in questo posto. Inciperdunque, credo sia il momento di sputtanarti publicamente sul mio sito web. cordiali saluti, ma anche no. Oscar. </p>
+
+Ti salutano Silvia ed Eleonora :)
+
 
 ### Jekyll Themes
 
