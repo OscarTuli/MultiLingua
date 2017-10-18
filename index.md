@@ -35,3 +35,22 @@
 <img src="https://upload.wikimedia.org/wikipedia/it/e/e7/Lago_Laceno.JPG" />
 
 <hr>
+
+<table style="width:100%">
+  <tr>
+    <th>English word</th>
+    <th>French word</th> 
+    <th>German word</th>
+  </tr>
+  <tr>
+    <td>Table</td>
+    <td>la table</td>
+    <td>Der Tisch</td>
+  </tr>
+ </table>
+
+
+
+
+
+
