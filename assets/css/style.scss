@@ -4,3 +4,9 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #488868;
+    background-image: linear-gradient(120deg, #f7bf23, rgba(208, 22, 22, 0.97));
+}
