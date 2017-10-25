@@ -44,12 +44,12 @@
   <tr>
     <th>English word</th>
     <th>French word</th> 
-    <th>German word</th>
+    <th>Italian word</th>
   </tr>
   <tr>
-    <td>Table</td>
-    <td>la table</td>
-    <td>Der Tisch</td>
+    <td>The table</td>
+    <td>La table</td>
+    <td>Il tavolo</td>
   </tr>
  </table>
 
