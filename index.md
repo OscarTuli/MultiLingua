@@ -1,3 +1,7 @@
+<ul class="breadcrumb">
+  <li><a href="#">Home</a></li>
+  </ul>
+
 <h1>Language Learning with Me</h1>
 <h2>Section 1 - What you can learn here</h2>
 <p>This is the first paragraph. It isn't very interesting at the moment.</p>
