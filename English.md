@@ -3,4 +3,4 @@
   <li>English</li>
   </ul>
 
-<h1> Welcome to page 2 </h1>
+<h1> Welcome</h1>
