@@ -36,7 +36,6 @@
 <hr>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/London_Underground_Tube_Train_approaching.gif" />
-alt="https://upload.wikimedia.org/wikipedia/it/e/e7/Lago_Laceno.JPG" height="100" width="200"/>
 
 <hr>
 
