@@ -37,7 +37,7 @@
 
 <hr>
 
-<h1>Welcome to London</h1>
+<h1><em><strong>Welcome to London</strong></em></h1>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/London_Underground_Tube_Train_approaching.gif" />
 
