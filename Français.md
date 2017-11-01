@@ -3,4 +3,4 @@
   <li>Français</li>
 </ul>
 
-<h1>Bienvenus</h1>
+<h1>Bienvenus sur MultiLingua</h1>
