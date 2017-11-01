@@ -6,9 +6,4 @@
 <h1>Welcome on MultiLingua</h1>
 
 
- <iframe src="https://www.youtube.com/watch?v=qHdBxYeYTtk"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
-<p>
-Video courtesy of 
-<a href="https://www.youtube.com/" target="_blank">Youtube</a>.
-</p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/qHdBxYeYTtk?rel=0" frameborder="0" allowfullscreen></iframe>
