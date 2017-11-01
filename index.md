@@ -5,7 +5,7 @@
 <h1>Language Learning with Me</h1>
 <h2>Section 1 - What you can learn here</h2>
 <p>Here you can find some useful exercises of English, French and Italian.</p>
-<img src="http://maxpixel.freegreatpicture.com/static/photo/1x/Tiger-Cat-Cat-Funny-Cat-Face-Domestic-Cat-Mieze-2306185.jpg"/>
+
 
 <hr>
 
