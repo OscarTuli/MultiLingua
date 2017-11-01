@@ -3,4 +3,4 @@
   <li>Français</li>
 </ul>
 
-<h1>Bienvenue</h1>
+<h1>Bienvenu</h1>
