@@ -5,10 +5,10 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    color: rgb(255, 255, 255);
+    color: #fff;
     text-align: center;
     background-color: #488868;
-    background-image: linear-gradient(120deg, #f7bf23, rgba(208, 22, 22, 0.97));
+    background-image: linear-gradient(120deg, rgba(39, 255, 0, 0.78), #0086b3);
 }
 
 /* breadcrumb css */
