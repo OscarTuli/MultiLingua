@@ -8,6 +8,12 @@
 <h2> Il ne faut pas mettre tout dans le même sac!</h2>
 <iframe src="https://archive.org/embed/Multilingua" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<audio controls>
+  <source src="https://ia601500.us.archive.org/21/items/Multilingua/Multilingua.ogg" type="audio/ogg">
+  <source src="https://ia601500.us.archive.org/21/items/Multilingua/Multilingua.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio> 
+
 <hr>
 
 <h3> Écoutez attentivement la chanson et répondez aux questions! </h3>
