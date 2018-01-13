@@ -12,3 +12,11 @@
 
 
 <iframe width="840" height="475" src="https://www.youtube.com/embed/6m-oSugqKKY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1JYS6ay0CmAt2Z6jAn5aPa0hmFMnPSjqp" width="640" height="480"></iframe>
+
+<hr>
+
+<iframe width="640" height="360" src="https://www.powtoon.com/embed/bwLs46WBnrO/" frameborder="0"></iframe>
